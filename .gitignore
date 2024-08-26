@@ -42,3 +42,4 @@ vendor
 examples/*.tf
 !examples/variable.tf
 *.tfvars
+.terraformrc
