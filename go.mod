@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/terraform-plugin-log v0.4.0 // indirect
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.17.0
 	github.com/hasura/go-graphql-client v0.7.0
-	github.com/smartxworks/cloudtower-go-sdk/v2 v2.8.0
+	github.com/smartxworks/cloudtower-go-sdk/v2 v2.17.0
 )
 
 require (
@@ -61,9 +61,9 @@ require (
 	github.com/vmihailenco/msgpack/v4 v4.3.12 // indirect
 	github.com/vmihailenco/tagparser v0.1.1 // indirect
 	github.com/zclconf/go-cty v1.10.0 // indirect
-	golang.org/x/crypto v0.1.0 // indirect
-	golang.org/x/sys v0.6.0 // indirect
-	golang.org/x/text v0.8.0 // indirect
+	golang.org/x/crypto v0.12.0 // indirect
+	golang.org/x/sys v0.11.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	google.golang.org/appengine v1.6.6 // indirect
 	google.golang.org/genproto v0.0.0-20200711021454-869866162049 // indirect
 	google.golang.org/grpc v1.46.0 // indirect
@@ -75,22 +75,23 @@ require (
 	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/analysis v0.21.4 // indirect
-	github.com/go-openapi/errors v0.20.3 // indirect
-	github.com/go-openapi/jsonpointer v0.19.6 // indirect
+	github.com/go-openapi/errors v0.20.4 // indirect
+	github.com/go-openapi/jsonpointer v0.20.0 // indirect
 	github.com/go-openapi/jsonreference v0.20.2 // indirect
 	github.com/go-openapi/loads v0.21.2 // indirect
 	github.com/go-openapi/spec v0.20.9 // indirect
-	github.com/go-openapi/swag v0.22.3 // indirect
+	github.com/go-openapi/swag v0.22.4 // indirect
 	github.com/go-openapi/validate v0.22.1 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
-	go.mongodb.org/mongo-driver v1.11.4 // indirect
-	go.opentelemetry.io/otel v1.14.0 // indirect
-	go.opentelemetry.io/otel/trace v1.14.0 // indirect
-	golang.org/x/net v0.8.0 // indirect
+	go.mongodb.org/mongo-driver v1.12.1 // indirect
+	go.opentelemetry.io/otel v1.17.0 // indirect
+	go.opentelemetry.io/otel/metric v1.17.0 // indirect
+	go.opentelemetry.io/otel/trace v1.17.0 // indirect
+	golang.org/x/net v0.14.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	nhooyr.io/websocket v1.8.7 // indirect
